@@ -1,8 +1,6 @@
 # hashmeter
 monitor system for capacity purposes based on utilizaiton
 
-Got it! Here's the updated `README.md` that reflects the use of `uv` instead of `pip` for installing dependencies:
-
 ```markdown
 # Hashmeter
 
